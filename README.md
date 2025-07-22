@@ -22,6 +22,7 @@ I am an aspiring security engineer looking to dive into a SOC role. I have 8 yea
 - 🏹 Command Line RPG
 - 🌀 Fibonachi Check
  
-## Hack The Box
-- 🛡️ BRUTUS 
+## Hack The Box - _Sherlocks_
+- [BRUTUS](https://github.com/Pyrigle/HTB-Walk-Throughs/blob/main/README.md)
+
 
