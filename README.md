@@ -13,7 +13,7 @@ I am an aspiring security engineer looking to dive into a SOC role. I have 8 yea
   - 🛠️ Subprocess 
   - 🕹️ Pygame 
 
-## Misc Learning:
+## Learning Projects:
 - 💣 Bomberman-like Game
 - 🧩 Ceaser Cipher
 - :trollface: Maze Game w/ Jump Scare
