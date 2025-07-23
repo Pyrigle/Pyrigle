@@ -23,6 +23,4 @@ I am an aspiring security engineer looking to dive into a SOC role. I have 8 yea
 - 🌀 Fibonachi Check
  
 ## Hack The Box - _Sherlocks_
-- [BRUTUS](https://github.com/Pyrigle/HTB-Walk-Throughs/blob/main/README.md)
-
-
+- [BRUTUS](https://github.com/Pyrigle/HTB-Walk-Throughs/tree/main/BRUTUS)
