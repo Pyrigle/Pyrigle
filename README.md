@@ -24,3 +24,5 @@ I am an aspiring security engineer looking to dive into a SOC role. I have 8 yea
  
 ## Hack The Box - _Sherlocks_
 - [BRUTUS](https://github.com/Pyrigle/HTB-Walk-Throughs/tree/main/BRUTUS)
+- [Unit42](https://github.com/Pyrigle/HTB-Walk-Throughs/tree/main/Unit42)
+- [Noxious](https://github.com/Pyrigle/HTB-Walk-Throughs/tree/main/Noxious)
