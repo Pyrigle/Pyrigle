@@ -23,6 +23,27 @@ I am an aspiring security engineer looking to dive into a SOC role. I have 8 yea
 - 🌀 Fibonachi Check
  
 ## Hack The Box - _Sherlocks_
-- [BRUTUS](https://github.com/Pyrigle/HTB-Walk-Throughs/tree/main/BRUTUS)
-- [Unit42](https://github.com/Pyrigle/HTB-Walk-Throughs/tree/main/Unit42)
-- [Noxious](https://github.com/Pyrigle/HTB-Walk-Throughs/tree/main/Noxious)
+Intro To Blueteam:
+- [BRUTUS](https://github.com/Pyrigle/HTB-Walk-Throughs/tree/main/BRUTUS) ✅
+- [BFT]
+- [Unit42](https://github.com/Pyrigle/HTB-Walk-Throughs/tree/main/Unit42) ✅
+- [i-like-to]
+- [Meercat] ✅
+- [Litter]
+- [Logjammer]
+- [Numbilum2]
+- [Tracer]
+- [Jingle Bell]
+- [Pikeptcha]
+- [Ultimatum]
+- [Recollection]
+- [Lockpick]
+- [RogueOne]
+- [HeartBreaker]
+Detecting Active Directory Attacks:
+- [Campfire-1] ✅
+- [Campfire-2] ✅
+- [Noxious](https://github.com/Pyrigle/HTB-Walk-Throughs/tree/main/Noxious) ✅
+- [Reaper]
+- [CrownJewel-1]
+- [CrownJewel-2]
