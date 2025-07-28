@@ -40,6 +40,7 @@ Intro To Blueteam:
 - [Lockpick]
 - [RogueOne]
 - [HeartBreaker]
+
 Detecting Active Directory Attacks:
 - [Campfire-1] ✅
 - [Campfire-2] ✅
