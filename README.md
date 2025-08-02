@@ -45,6 +45,6 @@ Detecting Active Directory Attacks:
 - [Campfire-1] ✅
 - [Campfire-2] ✅
 - [Noxious](https://github.com/Pyrigle/HTB-Walk-Throughs/tree/main/Noxious) ✅
-- [Reaper]
-- [CrownJewel-1]
-- [CrownJewel-2]
+- [Reaper] ✅
+- [CrownJewel-1] ✅
+- [CrownJewel-2] ✅
